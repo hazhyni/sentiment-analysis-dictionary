@@ -1,1 +1,1 @@
-# sentiment-analysis-dictionary
+# Sentiment Analysis Dictionary
